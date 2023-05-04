@@ -26,7 +26,6 @@ import lightning as L
 
 from sofamo.datasets.birdsdataset import BirdsDataset, intersection_filenames
 from sofamo.models.unet_v1 import UNet
-from sofamo.models.hrnet import HighResolutionNet
 from sofamo.losses.losses import (
     CE_DiceLoss,
     JaccardLoss,
