@@ -1,0 +1,10 @@
+numpy
+matplotlib
+albumentations
+torch
+torchvision
+torchmetrics
+torchsummary
+tensorboard
+segmentation_models_pytorch
+lightning
